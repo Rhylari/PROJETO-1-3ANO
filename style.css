@@ -1,4 +1,17 @@
 body {
-    color:blueviolet;
+    color:rgb(172, 95, 202);
     background: violet;
+    }
+
+    header {
+        border-bottom: solid 2px rgb(82, 10, 72);
+        font-size: 32px;
+   
+    }
+
+
+    section{
+        background: rgb(139, 13, 177);
+        padding-bottom: 80px;
+        padding-top: 80px;
     }
