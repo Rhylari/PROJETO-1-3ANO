@@ -1,17 +1,24 @@
 body {
-    color:rgb(172, 95, 202);
+    color: rgb(172, 95, 202);
     background: violet;
-    }
+    font-family: "Spicy Rice", system-ui;
+}
 
-    header {
-        border-bottom: solid 2px rgb(82, 10, 72);
-        font-size: 32px;
-   
-    }
+header {
+    border-bottom: solid 2px rgb(82, 10, 72);
+    padding: 10px;
+    font-size: 32px;
+}
 
 
-    section{
-        background: rgb(139, 13, 177);
-        padding-bottom: 80px;
-        padding-top: 80px;
-    }
+section {
+    background: rgb(139, 13, 177);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%
+}
